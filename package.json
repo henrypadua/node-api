@@ -1,5 +1,6 @@
 {
   "name": "node-api",
+  "description": "Estudos node",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -26,6 +27,5 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.5"
-  },
-  "description": ""
+  }
 }
